@@ -1,0 +1,30 @@
+.brand {
+	color: #753149;
+	background-color: white;
+	font-family: 'Kalam', cursive;
+	font-size: 2rem;
+}
+
+.card {
+	border-color: #f87e1a;
+}
+
+.card-footer {
+    background-color: rgba(0,0,0, 0.0);
+    }
+
+ ul a {
+ 	color: #753149;
+ }
+
+ .dropdown-item {
+ 	color: #753149;
+ }
+
+a:hover {
+  color: #753149;
+}
+
+#lastCard {
+	border-color: white;
+}
