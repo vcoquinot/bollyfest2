@@ -5,6 +5,11 @@
 	font-size: 2rem;
 }
 
+.img-fluid {
+	max-width: 100%;
+	height:auto;
+}
+
 .card {
 	border-color: #f87e1a;
 }
