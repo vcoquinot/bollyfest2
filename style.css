@@ -1,8 +1,32 @@
-.brand {
+.masthead {
+	background: url('img/bollyfest.png') repeat-x;
+	height: 90px;
+    margin: 0;
+}
+
+.masthead-heading {
 	color: #753149;
 	background-color: white;
-	font-family: 'Kalam', cursive;
+	font-family: 'Kalam';
 	font-size: 2rem;
+}
+
+.editionNumber {
+	color: #f87e1a;
+}
+
+
+.masthead-subheading {	
+	color: #753149;
+	font-family: 'Kalam';
+}
+
+.choreos {
+	color: #f87e1a;
+	background-color: white;
+	font-family: 'Kalam', cursive;
+
+	margin-top: 10px;
 }
 
 .img-fluid {
@@ -15,7 +39,7 @@
 }
 
 .card-header {
-	background-color: #753149;
+	background-color: #8D0448;
 	color: white;
 }
 
@@ -38,6 +62,7 @@
 a:hover {
   color: #753149;
 }
+
 
 #lastCard {
 	border-color: white;
