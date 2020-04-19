@@ -31,8 +31,9 @@ body{
 }
 
 .choreos {
-	color: #8d0448;
-	background-color: white;
+	background-color: #ff9446;
+	color: #31101c;
+	border: 2px solid #ff9446;
 	font-family: 'Raleway';
 	margin-top: 10px;
 }
