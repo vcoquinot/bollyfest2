@@ -1,3 +1,7 @@
+body{
+    margin: 0;
+}
+
 .masthead {
 	background: url('img/bollyfest.png') repeat-x;
 	height: 90px;
@@ -8,24 +12,28 @@
 	color: #753149;
 	background-color: white;
 	font-family: 'Kalam';
-	font-size: 2rem;
+	font-size: 3rem;
 }
 
 .editionNumber {
 	color: #f87e1a;
+	font-size: 4rem;
+	font-style: italic;
+	letter-spacing: -0.9rem;
 }
 
 
 .masthead-subheading {	
-	color: #753149;
-	font-family: 'Kalam';
+	color: #f87e1a;
+	font-family: 'Lora';
+	font-size: 1.5rem;
+	letter-spacing: -0.1rem;
 }
 
 .choreos {
-	color: #f87e1a;
+	color: #8d0448;
 	background-color: white;
-	font-family: 'Kalam', cursive;
-
+	font-family: 'Raleway';
 	margin-top: 10px;
 }
 
@@ -53,6 +61,8 @@
 
  ul a {
  	color: #753149;
+
+	font-family: 'Lora';
  }
 
  .dropdown-item {
