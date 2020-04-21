@@ -2,11 +2,11 @@ body{
     margin: 0;
 }
 
-.masthead {
-	background: url('img/bollyfest.png') repeat-x;
+/*.masthead {
+	background: url('img/bollyfest_header.png') repeat-x;
 	height: 90px;
     margin: 0;
-}
+}*/
 
 .masthead-heading {
 	color: #753149;
@@ -22,7 +22,6 @@ body{
 	letter-spacing: -0.9rem;
 }
 
-
 .masthead-subheading {	
 	color: #f87e1a;
 	font-family: 'Lora';
@@ -31,10 +30,11 @@ body{
 }
 
 .choreos {
-	background-color: #ff9446;
+	background-color: white;
 	color: #31101c;
-	border: 2px solid #ff9446;
-	font-family: 'Raleway';
+	border: 2px solid #753149;
+	font-family: 'Kalam';
+	font-weight: bold;
 	margin-top: 10px;
 }
 
@@ -43,12 +43,20 @@ body{
 	height:auto;
 }
 
+
 .card {
-	border-color: #753149;
+	border: 2px solid #753149;
 }
 
-.card-header {
+.card-header { 
 	background-color: #8D0448;
+}
+
+.card-title{
+	color: white;
+}
+
+.card-subtitle{
 	color: white;
 }
 
@@ -62,7 +70,6 @@ body{
 
  ul a {
  	color: #753149;
-
 	font-family: 'Lora';
  }
 
@@ -77,4 +84,8 @@ a:hover {
 
 #lastCard {
 	border-color: white;
+}
+
+footer {
+	margin-top: 40px;
 }
