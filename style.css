@@ -2,6 +2,11 @@ body{
     margin: 0;
 }
 
+header img{
+	max-width: 60%;
+	height: auto;
+}
+
 .masthead-heading {
 	color: #753149;
 	background-color: white;
