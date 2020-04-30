@@ -28,6 +28,19 @@ header img{
 	letter-spacing: -0.1rem;
 }
 
+ ul a {
+ 	color: #753149;
+	font-family: 'Lora';
+ }
+
+ .dropdown-item {
+ 	color: #753149;
+ }
+
+a:hover {
+  color: #753149;
+}
+
 .choreos {
 	background-color: white;
 	color: #31101c;
@@ -41,7 +54,6 @@ header img{
 	max-width: 100%;
 	height:auto;
 }
-
 
 .card {
 	border: 2px solid #753149;
@@ -66,20 +78,6 @@ header img{
 .card-footer {
     background-color: rgba(0,0,0, 0.0);
     }
-
- ul a {
- 	color: #753149;
-	font-family: 'Lora';
- }
-
- .dropdown-item {
- 	color: #753149;
- }
-
-a:hover {
-  color: #753149;
-}
-
 
 #lastCard {
 	border-color: white;
